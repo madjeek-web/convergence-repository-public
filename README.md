@@ -11,14 +11,23 @@ Aether Suite : 9 open-source Android apps to replace every default app on your p
 
 https://github.com/Convergence-Human-And-Technology/Aether-Suite
 
+Elsewhere on the web :
+
+- https://medium.com/@fabien-conejero/aether-suite-d6269d6de699
+
 # The Mirror
 
 The Mirror - Next Generation Desktop Experience - The Mirror is a revolutionary software solution that transforms how you interact with your digital workspace. Engineered for professionals and enterprises who demand innovation. A proprietary technology from Convergence. Available as SaaS.
 
 https://github.com/Convergence-Human-And-Technology/the-mirror
 
+Elsewhere on the web :
+
+
 #
 
 # Sixth Sense
 
 https://github.com/Convergence-Human-And-Technology/Sixth-Sense
+
+Elsewhere on the web :
