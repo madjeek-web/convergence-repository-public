@@ -18,3 +18,7 @@ The Mirror - Next Generation Desktop Experience - The Mirror is a revolutionary 
 https://github.com/Convergence-Human-And-Technology/the-mirror
 
 #
+
+# Sixth Sense
+
+https://github.com/Convergence-Human-And-Technology/Sixth-Sense
