@@ -7,7 +7,7 @@ Repository of my works (private or public depending on the types of projects) an
 #
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/logo-convergence.png" alt="logo convergence png" width="45%" height="45%">
+<img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/Aether-Suite-cover-05t.png" alt="Aether Suite : 9 applications Android open source par Convergence Human and Technology" width="100%" height="auto" />
 </p>
 
 # Aether Suite
