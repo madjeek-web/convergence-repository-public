@@ -6,6 +6,10 @@ Repository of my works (private or public depending on the types of projects) an
 
 #
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/logo-convergence.png" alt="logo convergence png" width="45%" height="45%">
+</p>
+
 # Aether Suite
 Aether Suite : 9 open-source Android apps to replace every default app on your phone. No ads. No tracking. No account needed. Your data stays on your phone, always.
 
