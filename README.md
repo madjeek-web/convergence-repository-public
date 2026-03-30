@@ -8,9 +8,17 @@
   <img src="https://raw.githubusercontent.com/convergence-human-technology/convergence-human-technology/main/convergence-cover-natural-d.png" alt="convergence cover" width="100%">
 </p>
 
-Repository of my works (private or public depending on the types of projects) and my collaborations on projects at Convergence human and technology
+Repository of my works (private or public depending on the types of projects) and my collaborations on projects at Convergence human and technology.
 
-- https://github.com/Convergence-Human-And-Technology
+✉ Email : convergence-tech@proton.me
+
+. Github Company : https://github.com/Convergence-Human-And-Technology 
+
+. LinkedIn Page : https://www.linkedin.com/company/convergence-organization
+
+. LinkedIn Showcase Page : https://www.linkedin.com/showcase/convergence-human-and-technology
+
+. Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
 
 #
 
