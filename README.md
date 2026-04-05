@@ -27,7 +27,7 @@ Repository of my works (private or public depending on the types of projects) an
 
 
 <p align="center">
-  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="100%" height="100%">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
 
 
