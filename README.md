@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/logo-convergence.png" alt="logo convergence png" width="45%" height="45%">
 </p>
 
-# Convergence repository public
+# Convergence Repository Public
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/convergence-human-technology/convergence-human-technology/main/convergence-cover-natural-d.png" alt="convergence cover" width="100%">
