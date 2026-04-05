@@ -22,7 +22,17 @@ Repository of my works (private or public depending on the types of projects) an
 
 . Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
 
-#
+
+
+
+
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="100%" height="100%">
+</p>
+
+
+
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/Aether-Suite-cover-05t.png" alt="Aether Suite : 9 applications Android open source par Convergence Human and Technology" width="100%" height="auto" />
