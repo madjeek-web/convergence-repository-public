@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/convergence-human-technology/convergence-human-technology/main/convergence-cover-natural-d.png" alt="convergence cover" width="100%">
 </p>
 
-"All Links" : https://github.com/orgs/Convergence-Human-And-Technology/repositories
+All Links : https://github.com/orgs/Convergence-Human-And-Technology/repositories
 
 Repository of my works (private or public depending on the types of projects) and my collaborations on projects at Convergence human and technology.
 
