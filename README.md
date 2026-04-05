@@ -24,13 +24,9 @@ Repository of my works (private or public depending on the types of projects) an
 
 
 
-
-
 <p align="center">
   <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
-
-
 
 
 
@@ -47,7 +43,13 @@ Elsewhere on the web :
 
 - https://medium.com/@fabien-conejero/aether-suite-d6269d6de699
 
-#
+
+
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
+
+
 
 <p align="center">
   <img src="https://github.com/charlotte-otoole/the-mirror/raw/main/the-mirror-convergence-cover-1.jpg" alt="the mirror (img-1) by : Convergence Human And Technology" width="100%" height="100%">
@@ -61,7 +63,13 @@ The Mirror - Next Generation Desktop Experience - The Mirror is a revolutionary 
 
 Elsewhere on the web :
 
-#
+
+
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
+
+
 
 <p align="center">
 <img src="https://github.com/madjeek-web/polybridge-mcp/raw/main/cover_convergence_mcp_2.png" alt="Polybridge Mcp cover image" width="100%" height="100%">
@@ -79,7 +87,13 @@ Elsewhere on the web :
 
 - Topics : open-source automation blender mcp gateway bridge mit-license notion claude pedagogical n8n llm agentic-ai model-context-protocol TypeScript Node.js MCP Protocol n8n Compatible Blender Docker
 
-#
+
+
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
+
+
 
 # Sixth Sense
 
@@ -87,7 +101,13 @@ Elsewhere on the web :
 
 Elsewhere on the web :
 
-#
+
+
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
+
+
 
 ![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/sovereign-drive/main/convergence_cover_aquatic.jpg)
 
