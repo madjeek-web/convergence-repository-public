@@ -74,3 +74,16 @@ Elsewhere on the web :
 - https://github.com/Convergence-Human-And-Technology/Sixth-Sense
 
 Elsewhere on the web :
+
+#
+
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/sovereign-drive/main/convergence_cover_aquatic.jpg)
+
+# Sovereign Drive
+
+> **Legally accountable AI for autonomous vehicle operation**  
+> A Convergence Human & Technology research initiative
+
+- https://github.com/Convergence-Human-And-Technology/sovereign-drive
+
+---
