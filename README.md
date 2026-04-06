@@ -28,7 +28,7 @@ Repository of my works (private or public depending on the types of projects) an
   <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
 
-
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/Aether-Suite/main/cover_Aether_Suite_real_HT.jpg)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/Aether-Suite-cover-05t.png" alt="Aether Suite : 9 applications Android open source par Convergence Human and Technology" width="100%" height="auto" />
