@@ -49,7 +49,7 @@ Elsewhere on the web :
   <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
 
-
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/the-mirror/main/cover-mirror-real-HT.jpg)
 
 <p align="center">
   <img src="https://github.com/charlotte-otoole/the-mirror/raw/main/the-mirror-convergence-cover-1.jpg" alt="the mirror (img-1) by : Convergence Human And Technology" width="100%" height="100%">
